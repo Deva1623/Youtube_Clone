@@ -8,7 +8,7 @@ Technologies: MERN stack with JWT for authentication and MongoDB for data storag
 How to use 
 1) There is a Dummy File called [ YoutubeClone.videos ] import it as json collection [videos] into mongoDB properly [Note- this is very important in order to see dummy videos properly when application starts]
 2) After importing it, open 2 new terminals in VS code.
-3) First do npm start in any terminal to install node modules.
+3) First do npm install in any terminal to install node modules.
 4) In first terminal run -> npm run dev
 5) In other termainal run -> node server.js
 6) once both server and app started application will run on localhost.
